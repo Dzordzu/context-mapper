@@ -1,5 +1,7 @@
 [package]
 name = "context-mapper-derive"
+description = "context-mapper derive crate"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
