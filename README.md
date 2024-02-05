@@ -4,9 +4,9 @@
 
 ## Links
 
-* Documentation
-* Repository
-* Crate
+* [Documentation](https://docs.rs/context-mapper/0.1.0/context_mapper/)
+* [Repository](https://github.com/Dzordzu/context-mapper)
+* [Crate](https://crates.io/crates/context-mapper)
 
 ## Example
 
